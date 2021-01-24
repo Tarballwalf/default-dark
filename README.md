@@ -1,11 +1,12 @@
 ## Default Dark
 ### A true dark theme for Spotify
 
-![screenshot1](/screenshots/screenshot1.png)
+![screenshot1](https://raw.githubusercontent.com/Tarballwalf/default-dark/main/screenshots/Screenshot1.png)
 
-![screenshot2](/screenshots/screenshot2.png)
+![screenshot2](https://raw.githubusercontent.com/Tarballwalf/default-dark/main/screenshots/Screenshot2.png)
 
-![screenshot3](/screenshots/screenshot3.png)
+![screenshot3](https://raw.githubusercontent.com/Tarballwalf/default-dark/main/screenshots/Screenshot3.png)
+
 
 [Download](https://github.com/Tarballwalf/default-dark/archive/main.zip)
 
