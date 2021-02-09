@@ -1,5 +1,5 @@
 ## Modern Dark
-### A true dark theme for Spotify
+### A modern dark theme for Spotify
 
 ![screenshot1](https://raw.githubusercontent.com/Tarballwalf/modern-dark/main/screenshots/Screenshot1.png)
 
